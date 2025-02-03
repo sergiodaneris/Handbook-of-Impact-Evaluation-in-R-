@@ -4,5 +4,6 @@ Este repositório contém soluções e análises dos exercícios propostos no li
 
 Observação: 
 1 - Arquivos de Script em Stata estão disponiveis na pasta Scripts Stata 
+
 2 - Qualquer erro encontrado nos scripts do R mandar um email para sergiodanerisalves@gmail.com
 
