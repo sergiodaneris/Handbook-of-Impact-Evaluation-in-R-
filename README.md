@@ -10,7 +10,7 @@ Este repositório contém soluções e análises dos exercícios propostos no li
 
 * Referências:
 
-1 - Woodill, J. (n.d.). Rcode-handbook-on-impact-eval-world-bank. Github : https://github.com/johnwoodill/Rcode-handbook-on-impact-eval-world-bank
+1 - Woodill, J. Rcode-handbook-on-impact-eval-world-bank. Github : https://github.com/johnwoodill/Rcode-handbook-on-impact-eval-world-bank
 
 2 - CRAN (Comprehensive R Archive Network), o repositório oficial de pacotes do R. Acesso em: https://cran.r-project.org
 
