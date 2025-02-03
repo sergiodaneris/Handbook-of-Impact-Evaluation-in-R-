@@ -15,3 +15,5 @@ Este repositório contém soluções e análises dos exercícios propostos no li
 2 -  Os pacotes R mencionados neste trabalho estão disponíveis no CRAN (Comprehensive R Archive Network), o repositório oficial de pacotes do R. Acesso em: https://cran.r-project.org
 
 3 - Cunningham, S. Causal inference: The mixtape. Yale University Press. Disponível em:  https://mixtape.scunning.com
+
+4 - Khandker, Shahidur R.; Koolwal, Gayatri S.; Samad, Hussain A. Handbook on Impact Evaluation: Quantitative Methods and Practices . Disponível em: https://documents1.worldbank.org/curated/en/650951468335456749/pdf/520990PUB0EPI1101Official0Use0Only1.pdf. 
