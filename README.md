@@ -14,4 +14,4 @@ Este repositório contém soluções e análises dos exercícios propostos no li
 
 2 -  Os pacotes R mencionados neste trabalho estão disponíveis no CRAN (Comprehensive R Archive Network), o repositório oficial de pacotes do R. Acesso em: \url{https://cran.r-project.org}.
 
-3 - Cunningham, S. Causal inference: The mixtape. Yale University Press. Disponível em: \url{https://mixtape.scunning.com}.
+3 - Cunningham, S. Causal inference: The mixtape. Yale University Press. Disponível em:  https://mixtape.scunning.com
