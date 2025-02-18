@@ -57,8 +57,3 @@ DiD_fe_cov_model <- plm(lexptot ~ year + dfmfd98 + dfmfdyr + sexhead + agehead +
 summary(DiD_fe_cov_model)
 
 
-# Regressão após PSM
-DiD_psm_model <- lm(lexptot ~ year + dfmfd98 + dfmfdyr + sexhead + agehead + 
-                      educhead + lnland + vaccess + pcirr + rice + wheat + 
-                      milk + oil + egg, data = matched_data)
-summary(DiD_psm_model)
