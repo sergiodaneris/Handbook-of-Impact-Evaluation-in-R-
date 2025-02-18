@@ -4,6 +4,7 @@ library(haven)  # Para carregar arquivos .dta
 library(survey)
 library(plm)  # Para modelos de painel
 library(MatchIt)  # Para Propensity Score Matching
+library(foreign)    # Para carregar arquivos .dta
 
 # Carregar os dados
 hh_9198 <- read.dta("C:/Users/sergi/Downloads/hh_9198.dta")
